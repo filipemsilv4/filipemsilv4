@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Paulo Filipe, a Computer Science student at the Federal Institute of Northern Minas Gerais, Brazil. I'm deeply interested in the world of programming and enjoy the challenges it brings.
+I'm Paulo Filipe, a Computer Science student at Instituto Federal do Norte de Minas Gerais, Brazil. I'm deeply interested in the world of programming and enjoy the challenges it brings.
 
 ## A Little About Me
 
