@@ -1,14 +1,6 @@
 # Hello there! 👋
 
-I'm Paulo Filipe, a Computer Science student at Instituto Federal do Norte de Minas Gerais, Brazil. I'm deeply interested in the world of programming and enjoy the challenges it brings.
-
-## A Little About Me
-
-- 🐞 I've been on a quest to squash bugs since 2019. 
-- 📚 I'm currently diving into competitive programming, which has been both challenging and rewarding.
-- 🎯 Participating in the ICPC World Finals is a dream of mine, and I'm working hard to make it a reality.
-- 🔄 I have a penchant for recursive acronyms. If there's something to be named, chances are I'll turn it into a recursive acronym.
-
+I'm Paulo Filipe, a Computer Science student at Instituto Federal do Norte de Minas Gerais, Brazil, and cofounder of [Flecha](https://www.flecha.ia.br). That's it.
 ## My Stats
 
 ###
