@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Paulo Filipe, a Computer Science student at Instituto Federal do Norte de Minas Gerais, Brazil, and cofounder of [Flecha](https://www.flecha.ia.br). That's it.
+I'm Paulo Filipe, a Computer Science student at Instituto Federal do Norte de Minas Gerais, Brazil.
 ## My Stats
 
 ###
